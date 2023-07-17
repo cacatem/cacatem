@@ -1,4 +1,4 @@
-### Cauã Cavalcante
+### Cauã
 
 - Currently studying and practicing front-end development
 <div>
