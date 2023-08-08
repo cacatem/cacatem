@@ -7,5 +7,5 @@
 
 - Skills:
 <div>
-  <img src="https://skillicons.dev/icons?i=js,java,html,css"/>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,powershell"/>
 </div>
